@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  	"dev": "pnpm run next dev",
-  	"build": "pnpm run next build",
-  	"start": "pnpm run next start",
-  	"lint": "pnpm run next lint"
+  	"dev": "next dev",
+  	"build": "next build",
+  	"start": "next start",
+  	"lint": "next lint"
 },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
