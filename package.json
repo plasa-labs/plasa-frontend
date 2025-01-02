@@ -1,13 +1,13 @@
 {
   "name": "plasa",
-  "packageManager": "bun@1.1.42",
+  "packageManager": "pnpm@9.15.2",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  	"dev": "bun run next dev",
-  	"build": "bun run next build",
-  	"start": "bun run next start",
-  	"lint": "bun run next lint"
+  	"dev": "pnpm run next dev",
+  	"build": "pnpm run next build",
+  	"start": "pnpm run next start",
+  	"lint": "pnpm run next lint"
 },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
